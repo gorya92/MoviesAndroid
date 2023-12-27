@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM-Architecture-Android</string>
+    <string name="no_comments">На этот фильм никто не оставил комментарий. Вы можете быть первым!"</string>
+</resources>
